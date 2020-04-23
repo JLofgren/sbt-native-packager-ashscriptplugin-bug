@@ -1,0 +1,1 @@
+# sbt-native-packager-ashscriptplugin-bug
